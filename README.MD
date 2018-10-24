@@ -19,4 +19,6 @@ e quais são:** git shortlog
 - **Mudar o branch selecionado:** git checkout NOME_DO_BRANCH
 - **Mostra branchs existentes e qual o selecionado:** git branch
 - **Apagar branch:** git branch -D NOME_DO_BRANCH
+**Mesclar os arquivos de um branch secundário:** git merge NOME_DO_BRANCH
+**Mesclar arquivos com linearmente** git rebase NOME_DO_BRANCH
 
